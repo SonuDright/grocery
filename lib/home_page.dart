@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-        Center(child: Text("Home Page " ,style: TextStyle(color: Colors.orange,fontSize: 30),)),
+        Center(child: Text("Home Page " ,style: TextStyle(color: Colors.red,fontSize: 30,fontWeight: FontWeight.bold ),)),
       ],),)
     );
   }
