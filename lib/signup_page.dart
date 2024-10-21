@@ -105,6 +105,7 @@ class SignUpScreens2 extends StatelessWidget {
                     ),
                   ),
                 ),
+                Text('data'),
               ],
             ),
           ),
